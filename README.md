@@ -1,26 +1,26 @@
-# Prework - *Name of App Here*
+# Prework - *Color Randomizer*
 
-Submitted by: **Your Name Here**
+Submitted by: **smrtl**
 
-**Name of your app** is an app that... [TODO] 
+**Color Randomizer** is an app that changes the background color of the screen when the "recolor" button is clicked.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/qaErkTH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

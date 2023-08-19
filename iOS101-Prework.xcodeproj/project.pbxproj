@@ -25,6 +25,7 @@
 		3C4CADEA2A9135FE00E212BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C4CADEC2A9135FE00E212BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CDDECC82A916FB300CAD2D2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3CDDECC92A91AFB200CAD2D2 /* iOS-prework.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = "iOS-prework.gif"; path = "../../../var/folders/j6/4q5rv9zj2b9b66bf3lk9ym3h0000gn/T/0228072bd074c98af3dbbb46b22d5734/iOS-prework.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		3C4CADD22A9135FD00E212BE = {
 			isa = PBXGroup;
 			children = (
+				3CDDECC92A91AFB200CAD2D2 /* iOS-prework.gif */,
 				3CDDECC82A916FB300CAD2D2 /* README.md */,
 				3C4CADDD2A9135FD00E212BE /* iOS101-Prework */,
 				3C4CADDC2A9135FD00E212BE /* Products */,
