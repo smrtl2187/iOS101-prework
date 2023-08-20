@@ -41,8 +41,8 @@ GIF created with Kap.
         * Take touchscreen input for character strokes and verify accuracy.
         * Take audio input and verify pronunciation accuracy.
 - [ ] App Idea:
-    * **test**
-        * test
+    * **Minimalist Social Media App**
+        * This app would consist of a main screen with four view tabs that users can toggle between: one for twitter-like thread of posts, one for instagram-like photo/video album but with no filters or minimal editing options, one for a simple marketplace for users who are in same area, one for book/movie/music short-form recommendations/reviews with optional visualizer/mindmap view. The main appeal of an app like this would be its simplicity and its attempt to integrate several ideas from common social media apps and distilling them down to what is essential and useful.
 
 ## Notes
 
