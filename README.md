@@ -27,8 +27,11 @@ GIF created with Kap.
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-- [ ] test
-- [ ] 
+- [ ] List of Favorite Apps
+    * **Youtube**
+        * test
+        * test
+- [ ] App Idea: 
 
 ## Notes
 
