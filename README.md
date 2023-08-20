@@ -10,8 +10,8 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -27,6 +27,7 @@ GIF created with Kap.
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+- [] 
 
 ## Notes
 
