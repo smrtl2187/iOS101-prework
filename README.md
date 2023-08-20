@@ -29,9 +29,20 @@ GIF created with Kap.
 ## App Brainstorming (Step 4)
 - [ ] List of Favorite Apps
     * **Youtube**
+        * Playing video content
+        * Creating and modifying playlists
+        * Adding, deleting, editing comments
+    * **Photos**
+        * Cropping images
+        * Clipping videos
+        * Adding captions
+    * **HelloChinese**
+        * Scrolling through lesson pathway
+        * Take touchscreen input for character strokes and verify accuracy.
+        * Take audio input and verify pronunciation accuracy.
+- [ ] App Idea:
+    * **test**
         * test
-        * test
-- [ ] App Idea: 
 
 ## Notes
 
