@@ -47,6 +47,8 @@ GIF created with Kap.
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Needed to review git configuration information
+* Ran into some issues with connecting UI to logic after some minimal editing. Still not exactly sure what was happenning there, but would like to explore this issue further if it becomes a frequent occurrence. I essentially redid the steps for that section in order to see the correct UI-Logic association on the connections inspector again.
 
 ## License
 
