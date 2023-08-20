@@ -27,7 +27,7 @@ GIF created with Kap.
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-- [] 
+- [ ] 
 
 ## Notes
 
